@@ -2,8 +2,6 @@
 
 
 
-\*\*Owner:\*\* Hemanth  
-
 \*\*Start Date:\*\* June 19, 2026  
 
 \*\*Current Day:\*\* Day 001  
